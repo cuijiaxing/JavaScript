@@ -1,3 +1,8 @@
+/*@author alvin.cui
+ *@NO. ProjectEuler 2
+ *@desc Fibonacci
+ */
+	
 	var max = 4000000;
 	var firstNum = 1;
 	var secondNum = 1;
